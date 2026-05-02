@@ -1,0 +1,52 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "trae.ai",
+        "marscode.com",
+        "byteoversea.com",
+        "byteintlapi.com",
+        "bytednsdoc.com",
+        "bytedance.com",
+        "jetbrains.com",
+        "gallery.vsassets.io",
+        "gallerycdn.vsassets.io",
+        "vscode-cdn.net",
+        "visualstudio.microsoft.com",
+        "microsoft.com",
+        "githubusercontent.com"
+      ]
+    },
+    {
+      "domain": [
+        "api.trae.ai",
+        "api-sg-central.trae.ai",
+        "docs.trae.ai",
+
+        "mon-va.byteoversea.com",
+        "maliva-mcs.byteoversea.com",
+
+        "bytegate-sg.byteintlapi.com",
+        "lf3-static.bytednsdoc.com",
+        "abtestvm-sg.bytedance.com",
+
+        "plugins.jetbrains.com",
+        "downloads.marketplace.jetbrains.com",
+        "resources.jetbrains.com",
+        "download.jetbrains.com",
+        "download-cdn.jetbrains.com",
+        "data.services.jetbrains.com",
+        "account.jetbrains.com",
+
+        "marketplace.visualstudio.com",
+        "update.code.visualstudio.com",
+        "code.visualstudio.com",
+        "go.microsoft.com",
+        "raw.githubusercontent.com",
+        "vscode.download.prss.microsoft.com",
+        "download.visualstudio.microsoft.com"
+      ]
+    }
+  ]
+}

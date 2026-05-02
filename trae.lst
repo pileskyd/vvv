@@ -1,0 +1,43 @@
+# Trae / MarsCode runtime
+domain:trae.ai
+domain:marscode.com
+domain:byteoversea.com
+domain:byteintlapi.com
+domain:bytednsdoc.com
+domain:bytedance.com
+
+# Trae known endpoints
+full:api.trae.ai
+full:api-sg-central.trae.ai
+full:docs.trae.ai
+full:mon-va.byteoversea.com
+full:maliva-mcs.byteoversea.com
+full:bytegate-sg.byteintlapi.com
+full:lf3-static.bytednsdoc.com
+full:abtestvm-sg.bytedance.com
+
+# JetBrains plugin install/update
+full:plugins.jetbrains.com
+full:downloads.marketplace.jetbrains.com
+full:resources.jetbrains.com
+full:download.jetbrains.com
+full:download-cdn.jetbrains.com
+full:data.services.jetbrains.com
+full:jetbrains.com
+full:account.jetbrains.com
+domain:jetbrains.com
+
+# VS Code extension install/update
+full:marketplace.visualstudio.com
+domain:gallery.vsassets.io
+domain:gallerycdn.vsassets.io
+domain:vscode-cdn.net
+full:update.code.visualstudio.com
+full:code.visualstudio.com
+full:go.microsoft.com
+full:raw.githubusercontent.com
+full:vscode.download.prss.microsoft.com
+full:download.visualstudio.microsoft.com
+domain:visualstudio.microsoft.com
+domain:microsoft.com
+domain:githubusercontent.com
